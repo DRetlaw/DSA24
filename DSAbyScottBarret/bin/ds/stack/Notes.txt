@@ -1,0 +1,6 @@
+Implements LIFO.
+Pushing or Popping of item happens at one end. O(1).
+ArrayList is preferable to Arrays.
+LinkedList can be used as well.
+Push and Pop are done from one side. The side is called Top.
+We don't need a pointer for bottom.
